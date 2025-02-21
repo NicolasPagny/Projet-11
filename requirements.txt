@@ -1,0 +1,6 @@
+pyspark
+ipykernel
+pandas
+pillow
+tensorflow
+pyarrow
